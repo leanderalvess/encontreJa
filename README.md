@@ -49,8 +49,8 @@ A organização do código segue **boas práticas de arquitetura** para facilita
 ### 📥 Instalação
 ```sh
 # Clonar o repositório
-git clone https://github.com/leanderalvess/missingPersons.git
-cd missingPersons
+git clone https://github.com/leanderalvess/encontreJa.git
+cd encontreJa
 
 # Instalar dependências
 yarn install
